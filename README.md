@@ -1,7 +1,7 @@
 
 [![Build Status](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/passing.svg)](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/releases)
 
-**Anyone who wants to help me, please tell me, any help is welcome!**❤️
+**Anyone who wants to help me, please tell me, any help is welcome!** ❤️
 
 ![alt text](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/0.3.png)
 
@@ -24,7 +24,7 @@ the addon is still walking, but there is still a long way to go!
 Do not know UPBGE?
 so I think I should get to know her! [Here!](https://github.com/EndSSgamesStudio/Addon_Upbge_Game_Objects/releases)
 
-**What is the UPBGE?**😐
+**What is the UPBGE?** 😐
 
 UPBGE (Uchronia Project Blender Game Engine) is a fork of Blender created by Porteries Tristan (a Blender Game Engine developer) and some of his friends in September 2015.
 
