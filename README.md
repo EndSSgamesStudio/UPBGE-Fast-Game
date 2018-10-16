@@ -1,10 +1,11 @@
 
 [![Build Status](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/passing.svg)](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/releases) 
-[see how addon is going! Here!](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/projects) 
 
 **Anyone who wants to help me, please tell me, any help is welcome!** ❤️
 
 ![alt text](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/0.3.png)
+
+[see how addon is going! Here!](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/projects) 
 
 **What is this addon? what he does?**
 
