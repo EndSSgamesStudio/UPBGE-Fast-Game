@@ -1,18 +1,39 @@
 
 [![Build Status](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/passing.svg)](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/releases)
-[![HitCount](http://hits.dwyl.io/{username}/{project}.svg)](http://hits.dwyl.io/{EndSSgamesStudio}/{UPBGE-Fast-Game})
 
-Hi! this is my first shared addon in it I want to create objects for the UPBGE, which is 100% free to use...
-
-Anyone who wants to help me, please tell me, any help is welcome!
+**Anyone who wants to help me, please tell me, any help is welcome!**❤️
 
 ![alt text](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/0.3.png)
 
-Addon Upbge Fast Game:
+**What is this addon? what he does?**
 
-is intended to help the development of games using the UPBGE
-being much easier to create a game!
+#
+
+![alt text](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/Readme%20Addon%20Infor.png)
+
+
+**the main objective of the addon, is, to be implemented in UPBGE!
+plus the addon still needs to be improved!**
 
 the addon is still walking, but there is still a long way to go!
 
-[Use Addon now](https://github.com/EndSSgamesStudio/Addon_Upbge_Game_Objects/releases)
+[Use Addon now!](https://github.com/EndSSgamesStudio/Addon_Upbge_Game_Objects/releases) 😄
+
+#
+#
+Do not know UPBGE?
+so I think I should get to know her! [Here!](https://github.com/EndSSgamesStudio/Addon_Upbge_Game_Objects/releases)
+
+**What is the UPBGE?**😐
+
+UPBGE (Uchronia Project Blender Game Engine) is a fork of Blender created by Porteries Tristan (a Blender Game Engine developer) and some of his friends in September 2015.
+
+It's an independent branch, and its aim is to clean up and improve current Blender Game Engine (BGE) code, experiment with new features, and implement forgotten features that currently exist but have not been merged with the official Blender trunk.
+
+Currently, after the Blender Foundation's decision to delete BGE from next 2.8 release UPBGE becomes, de facto, the only one to follow the development of the Game Engine. This gives us even more freedom, if possible, to make certain decisions, since we will never, in any way, come into conflict with the official version.
+UPBGE is evolving more and more! 
+
+**click on the image to get to know Upbge!**
+
+[![Build Status](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/Upbge%20Logo.png)](https://upbge.org/)
+
