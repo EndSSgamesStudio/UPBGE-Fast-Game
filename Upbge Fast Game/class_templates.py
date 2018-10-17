@@ -130,12 +130,12 @@ def loadAsset(filename, objList):
 
 
 def FPSTemplate():
-    
+    	bpy.ops.scene.new(type='EMPTY')
 	obj = loadAsset('objects.blend', ('player_body', 'player_camera', 'player_head'))
 	return obj
 
 def RPGTemplate():
-    
+    	bpy.ops.scene.new(type='EMPTY')
 	obj = loadAsset('objects.blend', ('Zombie'))
 	return obj
 
