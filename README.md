@@ -14,8 +14,6 @@
 ![alt text](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/Readme%20Addon%20Infor.png)
 
 
-**the main objective of the addon, is, to be implemented in UPBGE!
-plus the addon still needs to be improved!**
 
 the addon is still walking, but there is still a long way to go!
 
