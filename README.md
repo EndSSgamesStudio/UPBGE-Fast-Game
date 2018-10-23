@@ -1,4 +1,12 @@
 
+Warning: Developing PAUSED, I'm working non-stop on my game development
+If you are interested, enter this new discord server: https://discord.gg/jEvTadS
+in November I'm going back to work on the addon
+and again in November, I'm giving $ 100 in Paypal as a commemoration of the game's TRAILER publication! Do not miss out this!
+
+
+
+
 [![Build Status](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/passing.svg)](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/releases) 
 
 **Anyone who wants to help me, please tell me, any help is welcome!** ❤️
