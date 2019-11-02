@@ -1,9 +1,8 @@
 
 Warning: Developing PAUSED, I'm working non-stop on my game development
-If you are interested, enter this new discord server: https://discord.gg/8zVc33A
-in November I'm going back to work on the addon
-and again in November, I'm giving $ 100 in Paypal as a commemoration of the game's TRAILER publication! Do not miss out this!
-
+If you are interested, enter this discord server: https://discord.gg/8zVc33A
+next year I'll be back to work on the addon
+Bye!
 
 
 
