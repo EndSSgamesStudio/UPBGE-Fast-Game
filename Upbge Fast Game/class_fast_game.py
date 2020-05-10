@@ -20,7 +20,7 @@ Created by Rafael Tavares
 
 bl_info = {
     "name": "Upbge Fast game",
-    "author": "RafaelTavares(EndSSGames)",
+    "author": "Rafael Tavares",
     "version": (0, 3),
     "blender": (2, 79, 6),
     "location": "View3D > Tools > Upbge Fast game Panel",

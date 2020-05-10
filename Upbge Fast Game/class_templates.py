@@ -1,5 +1,5 @@
 '''
-Copyright (C) 2018 Rafael TavaresF
+Copyright (C) 2018 Rafael Tavares
 endssgamesstudio@bol.com.br
 
 Created by Rafael Tavares
@@ -19,8 +19,8 @@ Created by Rafael Tavares
 '''
 
 bl_info = {
-    "name": "Upbge Fast game",
-    "author": "RafaelTavares(EndSSGames)",
+    "name": "Fast game",
+    "author": "Rafael Tavares",
     "version": (0, 3),
     "blender": (2, 79, 6),
     "location": "View3D > Tools > Upbge Fast game Panel",
@@ -130,12 +130,12 @@ def loadAsset(filename, objList):
 
 
 def FPSTemplate():
-    	bpy.ops.scene.new(type='EMPTY')
+    
 	obj = loadAsset('objects.blend', ('player_body', 'player_camera', 'player_head'))
 	return obj
 
 def RPGTemplate():
-    	bpy.ops.scene.new(type='EMPTY')
+    
 	obj = loadAsset('objects.blend', ('Zombie'))
 	return obj
 
