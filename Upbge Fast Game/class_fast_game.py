@@ -1,5 +1,5 @@
 ﻿'''
-Copyright (C) 2018 Rafael TavaresF
+Copyright (C) 2020 Rafael Tavares
 endssgamesstudio@bol.com.br
 
 Created by Rafael Tavares
@@ -17,19 +17,6 @@ Created by Rafael Tavares
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 '''
-
-bl_info = {
-    "name": "Upbge Fast game",
-    "author": "Rafael Tavares",
-    "version": (0, 3),
-    "blender": (2, 79, 6),
-    "location": "View3D > Tools > Upbge Fast game Panel",
-    "description": "adds several game objects for free use",
-    "warning": "",
-    "wiki_url": "",
-    "tracker_url": "",
-    "category": "UPBGE"}
-	
 import bpy
 from math import *
 import os
