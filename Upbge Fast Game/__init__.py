@@ -1,5 +1,5 @@
 '''
-Copyright (C) 2018 Rafael Tavares
+Copyright (C) 2020 Rafael Tavares
 endssgamesstudio@bol.com.br
 
 Created by Rafael Tavares
@@ -26,8 +26,8 @@ bl_info = {
     "location": "View3D > Tools > Upbge Fast game Panel",
     "description": "adds several game objects",
     "warning": "",
-    "wiki_url": "https://github.com/EndSSgamesStudio/Addon_Upbge_Game_Objects",
-    "tracker_url": "https://github.com/EndSSgamesStudio/Addon_Upbge_Game_Objects/issues",
+    "wiki_url": "https://github.com/EndSSgamesStudio/UPBGE-Fast-Game",
+    "tracker_url": "https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/issues",
     "category": "Game Engine"}
 
 import bpy
@@ -52,17 +52,18 @@ class UpbgeGameObjectsPanel(bpy.types.Panel):
 		
 		#row = layout(aling = true)
 		layout.label(text = "Playable Objects:")
-		layout.operator(class_fast_game.PlayerFpsOperator.bl_idname, text = "FPS PLAYER", icon = 'ARMATURE_DATA')
+		layout.operator(class_fast_game.PlayerFpsOperator.bl_idname, text = "FPS PLAYER", icon = "POSE_DATA")
 		#row = layout.row( Third Person
-		layout.operator(class_fast_game.ThirdpersonplayerOperator.bl_idname, text = "Third Person Player",icon = 'OUTLINER_DATA_ARMATURE')
+		layout.operator(class_fast_game.ThirdpersonplayerOperator.bl_idname, text = "Third Person Player",icon = "POSE_HLT")
 		#Zombie
-		layout.operator(class_fast_game.ZombieOperator.bl_idname, text = "Zombie",icon = 'POSE_DATA')
+		#layout.operator(class_fast_game.ZombieOperator.bl_idname, text = "Zombie",icon = 'POSE_DATA')
 		#ZombieOperator.bl_idname
-		layout.operator(class_fast_game.FreeCameraOperator.bl_idname, text = "Free Camera",icon = 'SCENE')
+		layout.operator(class_fast_game.FreeCameraOperator.bl_idname, text = "Free Camera",icon = "SCENE")
 		#Orbit
-		layout.operator(class_fast_game.CameraOrbitOperator.bl_idname, text = "Camera Orbit",icon = 'CAMERA_DATA')
+		layout.operator(class_fast_game.CameraOrbitOperator.bl_idname, text = "Camera Orbit",icon = "CAMERA_DATA")
 		#Third
-		
+
+	
 		
 class FastGameTemplates(bpy.types.Panel):
 	#"""Docstring of UpbgeGameObjectsPanel"""
@@ -98,13 +99,11 @@ class FastGameTemplates(bpy.types.Panel):
         
 def register():
     bpy.utils.register_module(__name__)
+
 	
 def unregister():
-
     bpy.utils.unregister_module(__name__)
-    
-if __name__ == "__main__":
-    register()
+
     
     
 	

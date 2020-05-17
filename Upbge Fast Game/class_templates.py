@@ -18,7 +18,6 @@ Created by Rafael Tavares
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 '''
 import bpy
-from math import *
 import os
 from . import __init__
 
@@ -47,7 +46,7 @@ class RPGTemplateOperator(bpy.types.Operator):
 	
     
     def execute(self, context):
-        self.report({'INFO'}, "Sucess!!")
+        self.report({'INFO'}, "in Dev!")
         
         RPGTemplate()
         
@@ -118,11 +117,16 @@ def loadAsset(filename, objList):
 
 def FPSTemplate():
     
-	obj = loadAsset('objects.blend', ('player_body', 'player_camera', 'player_head'))
-	return obj
+    #obj = loadAsset('objects.blend', ('player_body', 'player_camera', 'player_head'))
+	#obj = loadAsset('objects.blend', ('player_body'))
+	
+	obj = loadAsset(bpy.data.scenes["Fps Template"])
+
+	#bpy.ops.scene.new()
+	#return obj
 
 def RPGTemplate():
-    
+	
 	obj = loadAsset('objects.blend', ('Zombie'))
 	return obj
 
@@ -148,13 +152,3 @@ def COLLECTTemplate():
 		
 		
 		
-		
-		
-		
-		
-#######################################################################REGISTER#######################################################################		
-def register():
-    bpy.utils.register_module(__name__)
-   
-def unregister():
-    bpy.utils.unregister_module(__name__)

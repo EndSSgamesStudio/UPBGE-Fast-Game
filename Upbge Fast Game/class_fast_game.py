@@ -18,9 +18,9 @@ Created by Rafael Tavares
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 '''
 import bpy
-from math import *
 import os
 from . import __init__
+
 
 
 #############################################
@@ -119,13 +119,15 @@ def loadAsset(filename, objList):
 
 def PlayerFps():
     
-	obj = loadAsset('objects.blend', ('player_body', 'player_camera', 'player_head'))
+	#obj = loadAsset('objects.blend', ('player_body', 'player_camera', 'player_head'))
+
 	return obj
 
-def Zombie():
+#def Zombie():
     
-	obj = loadAsset('objects.blend', ('Zombie'))
-	return obj
+	#obj = loadAsset('objects.blend', ('Zombie'))
+	
+	#return obj
 
 def FreeCamera():
     
@@ -151,11 +153,3 @@ def thirdperson():
 		
 		
 		
-		
-		
-#######################################################################REGISTER#######################################################################		
-def register():
-    bpy.utils.register_module(__name__)
-   
-def unregister():
-    bpy.utils.unregister_module(__name__)
