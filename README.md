@@ -1,6 +1,6 @@
 
 Warning: Developing PAUSED, I'm working non-stop on my game development
-If you are interested, enter this discord server: https://discord.gg/8zVc33A
+If you are interested, enter this discord server: https://discord.com/invite/NcfWjCD
 next year I'll be back to work on the addon
 Bye!
 
