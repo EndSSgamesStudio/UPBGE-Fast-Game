@@ -1,9 +1,7 @@
 
-Warning: Developing PAUSED, I'm working non-stop on my game development
-If you are interested, enter this discord server: https://discord.com/invite/NcfWjCD
-next year I'll be back to work on the addon
-Bye!
+discontinued addon, I do not see use in this addon. they are very simple things, if I am going to develop again, I need something more.
 
+for now, stay in the repository. 27/02/2021
 
 
 [![Build Status](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/blob/master/doc/readme/passing.svg)](https://github.com/EndSSgamesStudio/UPBGE-Fast-Game/releases) 
